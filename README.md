@@ -10,3 +10,5 @@ new line
 - все файлы с расширением и именем .terraformrc terraform.rc
 new line2
 
+working in IDE
+
