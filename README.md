@@ -132,4 +132,4 @@ ansible [core 2.15.3]
 ## Задача 4
 Ответ:
 
-![Скриншот](https://mega.nz/file/6OJUyQJT#c3WxqJD9aZk98p2C3rcH408PgfQwzjteh9qMTzHjyI8)
+![Скриншот](https://github.com/serlukinov/devops-netology/raw/master/image/image.png)
