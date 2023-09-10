@@ -1,6 +1,10 @@
 # devops-netology
 
+<<<<<<< HEAD
 # 05-virt-02-iaac
+=======
+# 05-virt-02-basics
+>>>>>>> refs/remotes/origin/master
 
 ## Задача 1
 _Опишите основные преимущества применения на практике IaaC-паттернов._
@@ -133,3 +137,4 @@ ansible [core 2.15.3]
 Ответ:
 
 ![Скриншот](https://github.com/serlukinov/devops-netology/raw/master/image/image.png)
+
