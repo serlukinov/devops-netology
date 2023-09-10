@@ -70,4 +70,15 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,terraform
+### Ansible ###
+*.retry
+
+### Vagrant ###
+# General
+.vagrant/
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log
+
+### Vagrant Patch ###
+*.box
